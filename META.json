@@ -55,5 +55,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.00004"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/lestrrat/p5-Event-Notify/issues"
+      },
+      "homepage" : "https://github.com/lestrrat/p5-Event-Notify",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/lestrrat/p5-Event-Notify.git",
+         "web" : "https://github.com/lestrrat/p5-Event-Notify"
+      }
+   },
+   "version" : "0.00005",
+   "x_contributors" : [
+      "Daisuke Maki <lestrrat+github@gmail.com>"
+   ]
 }

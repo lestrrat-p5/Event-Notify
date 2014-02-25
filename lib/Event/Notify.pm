@@ -7,7 +7,7 @@ package Event::Notify;
 use strict;
 use warnings;
 use vars qw($VERSION);
-$VERSION = '0.00004';
+$VERSION = '0.00005';
 use Carp ();
 
 sub new
