@@ -1,6 +1,9 @@
 Changes
 =======
 
+{{$NEXT}}
+  - Remove use of bare for qw()
+
 0.00004 - Thu 29 Nov 2007
   - Allow observers to specify the name of the method to use when notified.
 
